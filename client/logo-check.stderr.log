@@ -1,0 +1,8 @@
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          27092
+- Dir:          C:\Users\dell\Downloads\Plateforme-e-commerce-avec-Module-CRM-Intelligent-main (1)\Plateforme-e-commerce-avec-Module-CRM-Intelligent-main\client
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 27092 /F to stop it.
